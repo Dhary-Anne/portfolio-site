@@ -135,7 +135,12 @@ html{
     font-size: 2rem;
     margin-bottom: 20px;
 }
-
+#resume-btn{
+    width: 20vw;
+    height: 30px;
+    align-self: center;
+    margin-top: 20px;
+}
 /* Portfolio */
 
 #portfolio{
